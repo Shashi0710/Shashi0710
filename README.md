@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashini Imeshika</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<image align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/coding-gif-4706460855862906629">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashi0710" alt="shashi0710" /></a> </p>
 
 - 🌱 I’m currently learning **OOP with Java**
