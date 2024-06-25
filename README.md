@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently studying on **Rajarata University of Sri Lanka**
 
-- 🌱 I’m currently learning **OOP with Java,C,Python,HTML,CSS,Javascript,git**
+- 🌱 I’m currently learning **OOP with Java, C, Python, HTML, CSS, Javascript, git**
 
-- 💬 Ask me about **HTML,OOP with Java**
+- 💬 Ask me about **HTML, OOP with Java**
 
 - 📫 How to reach me **imeshikashashini6@gmail.com**
 
