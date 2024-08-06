@@ -16,8 +16,8 @@
 ## &nbsp;About me <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
 <p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
- <p/>
+<img src="https://user-images.githubusercontent.com/53114757/186635038-9a8fc243-a75c-471c-8e2c-310ec84f1ed2.gif" width="300" height="250"/>
+</p>
 
 - 🔭 I’m currently studying on **Rajarata University of Sri Lanka**
 
@@ -60,10 +60,12 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
+<td width="50%" align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashi0710&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-
-<br><br><br><br><br><br><br>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shashi0710&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+<br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shashi0710&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
